@@ -1,0 +1,100 @@
+.heading{
+    background-color: rgb(39, 247, 3);
+    color: rgb(40, 37, 37);
+}
+.pg-num{
+text-align: left;
+margin-left: 5%;
+color: rgb(0, 0, 0);
+background-color: rgb(175, 8, 167);
+width: 100px;
+padding: 7px;
+font-size: 18px;
+font-weight: 600;
+color: white;
+}
+.prev{
+    border: none;
+    background-color: yellow;
+    color: rgb(8, 8, 8);
+    width: 150px;
+    padding: 8px;
+    margin: 35px;
+    font-size: large;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.prev:hover{
+    background-color: rgb(250, 6, 55);
+    color: white;
+}
+.todo-input{
+    margin-top: -5%;
+    border: none;
+    background-color: white;
+    font-size: 19px;
+    padding: 10px;
+    width: 350px;
+    border-bottom: 3px solid blue;
+    outline: none;
+    
+}
+
+.add-btn{
+    border: none;
+    padding: 10px;
+    background-color:#056dff ;
+    color: white;
+    font-size: large;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100px;
+    margin-left: 4%;
+}
+
+.add-btn:hover{
+    background-color: aqua;
+    color: black;
+}
+.add-btn:active{
+    background-color: red;
+    color: white;
+}
+#flex{
+    display: grid;
+    grid-template-columns: 300px 300px;
+    text-align: center;
+   
+  justify-content: center;
+  /* height: 50px; */
+  margin-top: 15px;
+width: 50%;
+align-items: center;
+text-align: center;
+margin: auto;
+margin-top: 10px;
+box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+
+}
+.edit{
+    margin: 15px;
+    padding: 8px;
+    width: 70px;
+    border: none;
+    border-radius: 6px;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+.delete{
+    margin: 15px;
+    padding: 8px;
+    width: 70px;
+    border: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 6px;
+    background-color: rgb(249, 1, 1);
+}

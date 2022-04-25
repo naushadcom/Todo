@@ -1,0 +1,514 @@
+[
+    {
+        "id":15,
+        "name":"Peanut Butter Cheesecake",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/qtuuys1511387068.jpg",
+        "rating":5,
+        "votes":"543 votes",
+        "reviews":"232 views"
+    
+    },
+    
+    {
+        "id":16,
+        "name":"Peach & Blueberry Grunt",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/ssxvup1511387476.jpg",
+        "rating":1,
+        "votes":"523 votes",
+        "reviews":"346 views"
+    
+    },
+
+    {
+        "id":2,
+        "name":"Apple Frangipan Tart",
+        "details":"Continental,Asian,Deserts",
+        "imgURL":"https://www.themealdb.com/images/media/meals/wxywrq1468235067.jpg",
+        "rating":4,
+        "votes":"200 votes",
+        "reviews":"230 views"
+
+    },
+
+    {
+        "id":5,
+        "name":"Blackberry Fool",
+        "details":"Continental,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/rpvptu1511641092.jpg",
+        "rating":4,
+        "votes":"104 votes",
+        "reviews":"56 views"
+
+    },
+
+        {
+            "id":1,
+            "name":"Ayam Percik",
+            "details":"Continental,Asian,Deserts",
+            "imgURL":"https://www.themealdb.com/images/media/meals/020z181619788503.jpg",
+            "rating":3,
+            "votes":"200 votes",
+            "reviews":"600 views"
+    
+        },
+
+    {
+        "id":6,
+        "name":"Cream Chese Tart",
+        "details":"Continental,Asian,Pizza",
+        "imgURL":"https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg",
+        "rating":1,
+        "votes":"56 votes",
+        "reviews":"34 views"
+
+    },
+
+    {
+        "id":7,
+        "name":"Chicken Handi",
+        "details":"Continental,Asian,Chicken",
+        "imgURL":"https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+        "rating":3,
+        "votes":"500 votes",
+        "reviews":"450 views"
+
+    },
+    {
+        "id":8,
+        "name":"Carrot Cake",
+        "details":"Continental,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/vrspxv1511722107.jpg",
+        "rating":3,
+        "votes":"200 votes",
+        "reviews":"230 views"
+
+    },
+    {
+        "id":9,
+        "name":"Chicken Sandwich",
+        "details":"Continental,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+        "rating":2,
+        "votes":"800 votes",
+        "reviews":"600 views"
+
+    },
+    {
+        "id":10,
+        "name":"Chicken Burger",
+        "details":"Continental,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/n7qnkb1630444129.jpg",
+        "rating":4,
+        "votes":"230 votes",
+        "reviews":"121 views"
+
+    },
+    {
+        "id":11,
+        "name":"Potato Gratin with Chicken",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+        "rating":2,
+        "votes":"762 votes",
+        "reviews":"563 views"
+        
+    },
+    {
+        "id":3,
+        "name":"Baingan Bharta",
+        "details":"Continental,Asian,Curry",
+        "imgURL":"https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+        "rating":2,
+        "votes":"120 votes",
+        "reviews":"45 views"
+
+    },
+    {
+        "id":4,
+        "name":"Banana Pancakes",
+        "details":"Continental,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+        "rating":1,
+        "votes":"300 votes",
+        "reviews":"215 views"
+
+    },
+
+    {
+        "id":12,
+        "name":"Poutine",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+        "rating":5,
+        "votes":"712 votes",
+        "reviews":"543 views"
+        
+    },
+    {
+        "id":19,
+        "name":"Wontons",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/1525876468.jpg",
+        "rating":3,
+        "votes":"324 votes",
+        "reviews":"234 views"
+
+    },
+
+    {
+        "id":20,
+        "name":"Walnut Roll Gužvara",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/u9l7k81628771647.jpg",
+        "rating":5,
+        "votes":"256 votes",
+        "reviews":"124 views"
+
+    },
+
+    {
+        "id":13,
+        "name":"Pilchard puttanesca",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+        "rating":3,
+        "votes":"533 votes",
+        "reviews":"132 views"
+
+    },
+
+    {
+        "id":14,
+        "name":"Pancakes",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+        "rating":2,
+        "votes":"433 votes",
+        "reviews":"098 views"
+
+    },
+    {
+        "id":3,
+        "name":"Baingan Bharta",
+        "details":"Continental,Asian,Curry",
+        "imgURL":"https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+        "rating":2,
+        "votes":"120 votes",
+        "reviews":"45 views"
+
+    },
+    {
+        "id":4,
+        "name":"Banana Pancakes",
+        "details":"Continental,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+        "rating":1,
+        "votes":"300 votes",
+        "reviews":"215 views"
+
+    },
+
+    {
+        "id":12,
+        "name":"Poutine",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+        "rating":5,
+        "votes":"712 votes",
+        "reviews":"543 views"
+        
+    },
+    {
+        "id":19,
+        "name":"Wontons",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/1525876468.jpg",
+        "rating":3,
+        "votes":"324 votes",
+        "reviews":"234 views"
+
+    },
+
+    {
+        "id":20,
+        "name":"Walnut Roll Gužvara",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/u9l7k81628771647.jpg",
+        "rating":5,
+        "votes":"256 votes",
+        "reviews":"124 views"
+
+    },
+
+    {
+        "id":13,
+        "name":"Pilchard puttanesca",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+        "rating":3,
+        "votes":"533 votes",
+        "reviews":"132 views"
+
+    },
+
+    {
+        "id":14,
+        "name":"Pancakes",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+        "rating":2,
+        "votes":"433 votes",
+        "reviews":"098 views"
+
+    },
+    {
+        "id":3,
+        "name":"Baingan Bharta",
+        "details":"Continental,Asian,Curry",
+        "imgURL":"https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+        "rating":2,
+        "votes":"120 votes",
+        "reviews":"45 views"
+
+    },
+    {
+        "id":4,
+        "name":"Banana Pancakes",
+        "details":"Continental,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+        "rating":1,
+        "votes":"300 votes",
+        "reviews":"215 views"
+
+    },
+    {
+        "id":19,
+        "name":"Wontons",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/1525876468.jpg",
+        "rating":3,
+        "votes":"324 votes",
+        "reviews":"234 views"
+
+    },
+
+    {
+        "id":20,
+        "name":"Walnut Roll Gužvara",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/u9l7k81628771647.jpg",
+        "rating":5,
+        "votes":"256 votes",
+        "reviews":"124 views"
+
+    },
+
+    {
+        "id":13,
+        "name":"Pilchard puttanesca",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+        "rating":3,
+        "votes":"533 votes",
+        "reviews":"132 views"
+
+    },
+
+    {
+        "id":14,
+        "name":"Pancakes",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+        "rating":2,
+        "votes":"433 votes",
+        "reviews":"098 views"
+
+    },
+
+
+    {
+        "id":17,
+        "name":"Thai Green Curry",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
+        "rating":3,
+        "votes":"876 votes",
+        "reviews":"356 views"
+
+    },
+
+    {
+        "id":18,
+        "name":"Tuna Nicoise",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg",
+        "rating":4,
+        "votes":"436 votes",
+        "reviews":"098 views"
+
+    },
+
+    {
+        "id":12,
+        "name":"Poutine",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+        "rating":5,
+        "votes":"712 votes",
+        "reviews":"543 views"
+        
+    },
+   
+    {
+        "id":19,
+        "name":"Wontons",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/1525876468.jpg",
+        "rating":3,
+        "votes":"324 votes",
+        "reviews":"234 views"
+
+    },
+
+    {
+        "id":20,
+        "name":"Walnut Roll Gužvara",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/u9l7k81628771647.jpg",
+        "rating":5,
+        "votes":"256 votes",
+        "reviews":"124 views"
+
+    },
+
+    {
+        "id":13,
+        "name":"Pilchard puttanesca",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+        "rating":3,
+        "votes":"533 votes",
+        "reviews":"132 views"
+
+    },
+
+    {
+        "id":14,
+        "name":"Pancakes",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+        "rating":2,
+        "votes":"433 votes",
+        "reviews":"098 views"
+
+    },
+    {
+        "id":3,
+        "name":"Baingan Bharta",
+        "details":"Continental,Asian,Curry",
+        "imgURL":"https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+        "rating":2,
+        "votes":"120 votes",
+        "reviews":"45 views"
+
+    },
+    {
+        "id":4,
+        "name":"Banana Pancakes",
+        "details":"Continental,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+        "rating":1,
+        "votes":"300 votes",
+        "reviews":"215 views"
+
+    },
+
+    {
+        "id":12,
+        "name":"Poutine",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+        "rating":5,
+        "votes":"712 votes",
+        "reviews":"543 views"
+        
+    },
+    {
+        "id":19,
+        "name":"Wontons",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/1525876468.jpg",
+        "rating":3,
+        "votes":"324 votes",
+        "reviews":"234 views"
+
+    },
+
+    {
+        "id":20,
+        "name":"Walnut Roll Gužvara",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/u9l7k81628771647.jpg",
+        "rating":5,
+        "votes":"256 votes",
+        "reviews":"124 views"
+
+    },
+
+    {
+        "id":13,
+        "name":"Pilchard puttanesca",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg",
+        "rating":3,
+        "votes":"533 votes",
+        "reviews":"132 views"
+
+    },
+
+    {
+        "id":14,
+        "name":"Pancakes",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg",
+        "rating":2,
+        "votes":"433 votes",
+        "reviews":"098 views"
+
+    },
+    {
+        "id":3,
+        "name":"Baingan Bharta",
+        "details":"Continental,Asian,Curry",
+        "imgURL":"https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg",
+        "rating":2,
+        "votes":"120 votes",
+        "reviews":"45 views"
+
+    },
+    {
+        "id":4,
+        "name":"Banana Pancakes",
+        "details":"Continental,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+        "rating":1,
+        "votes":"300 votes",
+        "reviews":"215 views"
+
+    },
+
+    {
+        "id":12,
+        "name":"Poutine",
+        "details":"Continential,Asian,Desert",
+        "imgURL":"https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg",
+        "rating":5,
+        "votes":"712 votes",
+        "reviews":"543 views"
+        
+    }
+
+
+]
